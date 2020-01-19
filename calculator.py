@@ -133,7 +133,7 @@ allclr.place(x=392,y=85)
 backspace=Button(frame,text="C",command=clear,activebackground='lightgrey',font=('Helvetica', '30'),relief=GROOVE,height=3,width=4,bd=0)
 backspace.place(x=392,y=320)
 
-text=Text(frame,font=('Helvetica', '20'),bg="#f0f5f5zz")
+text=Text(frame,font=('Helvetica', '20'),bg="#f0f5f5")
 text.place(x=0,y=0,height=85,width=500)
 
 
